@@ -1,0 +1,25 @@
+.title {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 16px;
+  margin-top: 16px;
+  max-width: 680px;
+}
+
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 10px;
+}
+
+.note {
+  margin-top: 12px;
+  color: #444;
+  font-size: 14px;
+}
